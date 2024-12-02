@@ -2,6 +2,8 @@
 
 The project is in 6000.0.29f1 but should work under any recent Unity version.
 
+![Screenshot](Screenshot.png)
+
 ## How to clone
 
 ```shell
