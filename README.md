@@ -2,6 +2,18 @@
 
 The project is in 6000.0.29f1 but should work under any recent Unity version.
 
+## How to clone
+
+```shell
+git clone --recursive https://github.com/andyroiiid/UnityLLMDemo.git
+```
+
+Or if you've already cloned without `--recursive`:
+
+```shell
+git submodule update --init
+```
+
 ## Dependencies & Licenses
 
 - [ONNX Runtime](https://github.com/microsoft/onnxruntime) - [MIT License](https://github.com/microsoft/onnxruntime/blob/main/LICENSE)
