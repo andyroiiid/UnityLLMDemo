@@ -47,7 +47,7 @@ Just one `StringBuilder` helper function.
 
 ## License
 
-**Here's a reminder that this repository is GPL-licensed**.
+**Here's a reminder that this repository is [GPL-licensed](LICENSE)**.
 
 The code is super simple, and you can write your own in less than an hour - just don't copy paste directly from this
 repo.
